@@ -1,2 +1,2 @@
 # Triangulos
-Programa que calcula el área de un Triangulo. Hecho en Python 
+Programa que calcula el área de un Triangulo. 
