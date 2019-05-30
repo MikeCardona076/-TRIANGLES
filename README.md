@@ -1,2 +1,3 @@
-# Triangulos
-Programa que calcula el área de un Triangulo. 
+
+TRIANGLES
+How to calcus the biggest triangle of three
